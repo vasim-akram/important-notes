@@ -8,7 +8,7 @@ battle-tested Netflix components.
 The patterns provided include Service Discovery (Eureka),
 Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon)..
 
-## ELK(Elasticsearch)
+## ELK(Elasticsearch-Logstash-Kibana)
 
 The ELK stack is composed of:
 
