@@ -1,4 +1,4 @@
-## Spring Cloud Netflix
+###### Spring Cloud Netflix
 
 Spring Cloud Netflix provides Netflix OSS integrations for Spring Boot apps through
 autoconfiguration and binding to the Spring Environment and other Spring programming 
@@ -8,11 +8,13 @@ battle-tested Netflix components.
 The patterns provided include Service Discovery (Eureka),
 Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client Side Load Balancing (Ribbon)..
 
-## ELK(Elasticsearch-Logstash-Kibana)
+###### ELK(Elasticsearch-Logstash-Kibana)
 
 The ELK stack is composed of:
 
-    Elasticsearch for indexing the data (logs and metrics)
-    Logstash to manage and process the logs received from the applications
-    Kibana to visualize the logs with a nice interface
+    ..* Elasticsearch for indexing the data (logs and metrics)
+    ..* Logstash to manage and process the logs received from the applications
+    ..* Kibana to visualize the logs with a nice interface
+    
+###### For installation and configuraion ==> https://blog.codecentric.de/en/2014/10/log-management-spring-boot-applications-logstash-elastichsearch-kibana/
 
