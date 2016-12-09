@@ -1,4 +1,4 @@
-####STATUS_CODES: 
+   STATUS_CODES: 
       [ '100': 'Continue',
         '101': 'Switching Protocols',
         '102': 'Processing',
@@ -62,7 +62,7 @@
         '511': 'Network Authentication Required'
       ]
       
-####METHODS: 
+METHODS: 
       [ 'CHECKOUT',
         'CONNECT',
         'COPY',
