@@ -3,3 +3,4 @@
 * add repo -> ```sudo sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list```
 * ```sudo apt-get update```
 * ```sudo apt-get install jenkins```
+* start jenkins -> [start-jenkins](http://localhost:8080)
